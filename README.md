@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100px" src="img7.png"/>
+  <img width="300px" src="img7.png"/>
 </div>
 <br>
 
@@ -19,4 +19,4 @@
 
 ## 📸 Screenshots
 
-<img src='127.0.0.1_5500_index.html (1).png' width='600px' height='500px'>
+<img src='127.0.0.1_5500_index.html (1).png' width='800px' height='600px'>
