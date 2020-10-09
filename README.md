@@ -19,4 +19,4 @@
 
 ## 📸 Screenshots
 
-<img src='127.0.0.1_5500_index.html (1).png' width='800px' height='600px'>
+<img src='127.0.0.1_5500_index.html (1).png' width='700px' height='600px'>
